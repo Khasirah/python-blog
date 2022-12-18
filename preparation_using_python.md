@@ -33,6 +33,6 @@
 1. Open VSCode at desired directory using **terminal** **or** you can **right click** at the directory and choose "open with code"
 2. `{desired directory}> code .` this will open at desired directory
 3. ![New File](img/new_file.png "New File")
-4. Type name of file and give extension `.py`, ex: `file1.py`
+4. Type name of file and give extension `.py`, ex: "file1.py"
 5. Type in "file1.py" `print("Hello Python")`
 6. Run the code with `Ctrl + F5`
